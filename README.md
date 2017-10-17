@@ -8,10 +8,17 @@ SmartyEther  token (Fast and Smart)
 official website SmartyEther
 
 Specifications of SmartyEther
+
 Name: SmartyEther
+
 Symbol: STH
+
 Decimals: 0
+
 Standard: ERC20
+
 Platform: Ethereum
+
 Maximum Total Supply: 1,000,000,000 STH
+
 Distribution: Free Airdrop
